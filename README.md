@@ -1,5 +1,5 @@
 # LCM
 
-This is my fist R project
+This is my fist R project, and it is about 
 
-about zero-inflated Mixture model with Longitudinal and Covariates components.
+zero-inflated poisson Mixture model with Longitudinal and Covariates components.
